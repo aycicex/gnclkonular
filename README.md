@@ -9,8 +9,8 @@ Leona'yı aktif hale getirmek için görüş alanında ve belli bir yakınlıkta
 2 adet ekran görüntüsü mevcuttur. Birisi tamamen oyun içine aittir diğeri ise Unity üzerinde proje açıkkenki haline aittir.
 
 ------CREDITS------
-1) Oğuzhan Ayçiçek 225541112
-2) Lütfiye Gül Yılmaz 195542004
+1) Oğuzhan Ayçiçek 225541112 (Backend, kodlama, animasyonlar, API entegrasyonu)
+2) Lütfiye Gül Yılmaz 195542004 (Frontend, harita tasarımı, Asset oluşturma, konsept tasarımı)
 
 -----KURULUM KURALLARI----
 1) Projeyi indirin
