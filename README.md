@@ -6,10 +6,11 @@ Konuşurken "t" harfine basılı tutun, bitince bırakın. Speech-to-text ile me
 mouse ile etrafa bakınabilirsiniz. APK değildir masaüstü uygulamasıdır dolayısıyla .exe uzantılıdır. Yapay zekalı kişisel asistandır. ChatGPT 3.5 Turbo kullanılmıştır. İNTERNETE BAĞLI OLMANIZ GEREKMEKTEDİR!!
 Türkçe ve İngilizce olarak soru sorabilir ve yanıt alabilirsiniz, iki dili de desteklemektedir. ConvAI API ile entegre edilmiştir. leona knowledge.txt dosyasında karaktere yapılan öğretim yazılıdır.
 Leona'yı aktif hale getirmek için görüş alanında ve belli bir yakınlıkta bekleyin. Sol altta chatbox açıldığı zaman konuşmaya başlayabilirsiniz.
+2 adet ekran görüntüsü mevcuttur. Birisi tamamen oyun içine aittir diğeri ise Unity üzerinde proje açıkkenki haline aittir.
 
 ------CREDITS------
-Oğuzhan Ayçiçek 225541112
-Lütfiye Gül Yılmaz
+1) Oğuzhan Ayçiçek 225541112
+2) Lütfiye Gül Yılmaz 195542004
 
 -----KURULUM KURALLARI----
 1) Projeyi indirin
